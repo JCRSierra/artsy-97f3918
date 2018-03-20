@@ -4,7 +4,7 @@ title:  Search for Mr. Hyde
 categories: search mister hyde
 ---
 
-That evening Mr. Utterson came home to his bachelor house in sombre
+That evening Mr. Pedro came home to his bachelor house in sombre
 spirits and sat down to dinner without relish. It was his custom of a
 Sunday, when this meal was over, to sit close by the fire, a volume
 of some dry divinity on his reading desk, until the clock of the
